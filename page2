@@ -1,0 +1,34 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <script>
+        setTimeout(function() {
+            window.location.href = "https://s.imoim.net/eBXRQg"; // প্রথমে ইমুতে যাবে
+            setTimeout(function() {
+                window.location.href = "https://s.daraz.com.bd/s.FKom?cc"; // তারপর দারাজে যাবে
+            }, 3000); // 3 সেকেন্ড পর দারাজে যাবে
+        }, 1000); // 1 সেকেন্ড পরে ইমুতে যাবে
+    </script>
+    <style>
+        body {
+            text-align: center;
+            padding: 50px;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>আপনাকে রিডাইরেক্ট করা হচ্ছে...</h1>
+    <p>প্রথমে ইমুতে নিয়ে যাওয়া হবে, তারপর দারাজের ওয়েবসাইটে...</p>
+    <p>যদি স্বয়ংক্রিয়ভাবে রিডাইরেক্ট না হয়, তাহলে <a href="https://s.imoim.net/eBXRQg">এখানে ক্লিক করুন</a>।</p>
+</body>
+</html>
